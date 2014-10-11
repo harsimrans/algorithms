@@ -37,11 +37,11 @@ int main()
     }
   }
   
-  for (i = 0 ; i < n ; i++)
+  for (k = 0 ; k < n ; k++)
   {
-    for (j = 0 ; j < n; j++)
+    for (i = 0 ; i < n; i++)
     {
-      for (k = 0 ; k < n; k++)
+      for (j = 0 ; j < n; j++)
       {
         if (i != j)
         {
