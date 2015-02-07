@@ -16,3 +16,10 @@ Algorithms:
 10. Matric Chain Multiplication
 11. Fractional Knapsack (Greedy)
 12. 0/1 Knapsack (Dynamic Programming)
+13. Bubble Sort
+14. Selection Sort
+15. Insertion Sort
+16. Merge Sort
+17. Quick Sort
+18. Heap Sort
+19. Radix Sort
